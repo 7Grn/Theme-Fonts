@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Mejiro",
+    "previewText": "Mejiro is a modified font based on ggsans and Noto Sans JP.",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Bold.ttf",
+        "ggsans-ExtraBold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-ExtraBold.ttf",
+        "ggsans-Medium": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Medium.ttf",
+        "ggsans-Normal": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Regular.ttf",
+        "ggsans-Semibold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-SemiBold.ttf",
+        "NotoSans-Bold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-ExtraBold.ttf",
+        "NotoSans-Medium": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Regular.ttf",
+        "NotoSans-Semibold": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-SemiBold.ttf",
+        "ggmono-Normal": "https://github.com/AndroPlus-org/Mejiro/raw/master/Mejiro-Regular.ttf"
+    }
+}
