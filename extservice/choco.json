@@ -1,1 +1,25 @@
-
+{
+  "spec": 1,
+  "name": "choco",
+  "previewText": "discord.com/channels/1205207689832038522/1296197038006075543/1540241059580219482",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-Bold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-BoldItalic": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-ExtraBold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-Medium": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-MediumItalic": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-Normal": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-NormalItalic": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-Semibold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "NotoSans-Bold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "NotoSans-ExtraBold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "NotoSans-Medium": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "NotoSans-Normal": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "NotoSans-NormalItalic": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "NotoSans-Semibold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf",
+    "SourceCodePro-Semibold": "https://github.com/7Grn/Theme-Fonts/raw/refs/heads/main/extservice/Chococooky.ttf"
+  }
+}
